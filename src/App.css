@@ -1,0 +1,20 @@
+.selected {
+    border: solid 2px dodgerblue;
+    width: fit-content;
+}
+
+#container {
+    border: solid 2px black;
+    width: fit-content;
+    padding: 0.5rem;
+    
+}
+
+#container > div {
+    padding: 0.25rem;
+}
+
+h1, h2 {
+    font-family: cursive;
+    text-decoration: underline;
+}
